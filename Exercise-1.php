@@ -13,7 +13,7 @@
             $s = substr($str, strlen($str)-1);
             return $s.$str.$s;
         }
-        #HALOJA
+        asdasdad
     echo test("Red")."\n";
     echo test("Green")
     ?>
